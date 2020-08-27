@@ -1,6 +1,7 @@
 module github.com/Songmu/deglacer
 
 go 1.14
+// +heroku goVersion go1.14
 
 require (
 	github.com/Songmu/kibelasync v0.1.0
